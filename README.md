@@ -1,0 +1,3 @@
+# Guides
+
+Rejseguider og destinationsindhold.
